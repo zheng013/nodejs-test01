@@ -27,3 +27,8 @@ touch log
 * git pull
 * killall node
 * sh ./start
+
+
+### 无法使用ssh，只能通过阿里云网页版的编辑器复制代码到框里操作
+
+持续更新---------
